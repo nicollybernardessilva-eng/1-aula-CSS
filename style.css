@@ -1,0 +1,43 @@
+body{
+    background-color: #f4f4f4;
+font-family:Arial, Helvetica, sans-serif ;
+color: #000;
+width: 80%;
+margin: auto;
+padding: 20px;
+}
+
+h1{
+    color: darkblue;
+    text-align: center;
+}
+h2{
+color: darkred;
+border-bottom: 2px solid gray;
+}
+p{
+   font-size: 18px;
+   text-align: justify;
+   line-height: 1.5;
+
+}
+
+
+ul{
+background-color: #eeeeee;
+padding: 15px;
+margin: 15px;
+}
+
+
+ol{ 
+background-color: #eeeeee;
+padding: 15px;
+margin: 15px;
+
+}
+
+hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
